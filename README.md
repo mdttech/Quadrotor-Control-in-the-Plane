@@ -33,6 +33,8 @@ The angular acceleration is determined by Euler’s equation of motion
 As a result, the system model can be written as,
 
     [ ¨ y,¨ z,¨ φ ]=[ 0 −g 0 ]+[ −1/m*sin(φ),0;1/m*cos(φ),0; 0,1/Ixx][u1 u2] (3)
+    
+![HGFD](https://user-images.githubusercontent.com/36922299/59966134-5b5ae680-9535-11e9-93a0-85320fa52ec9.png)
      
 
 # 3 Controller
